@@ -7,6 +7,8 @@ Made with: **React.js**
 
 ### Launch
 ```
+git clone https://github.com/pijus-r/GithubAPI_SPA.git
+cd GithubAPI_SPA
 npm install && npm start
 ```
 
