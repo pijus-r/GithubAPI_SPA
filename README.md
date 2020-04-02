@@ -5,7 +5,7 @@
 ### Launch
 ```
 git clone https://github.com/pijus-r/GithubAPI_Users.git
-cd GithubAPI_SPA
+cd GithubAPI_Users
 npm install && npm start
 ```
 
